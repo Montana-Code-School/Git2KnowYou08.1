@@ -1,0 +1,24 @@
+{
+  "name": "git2knowyou08.1",
+  "version": "1.0.0",
+  "description": "Git to know you for 2018 first class",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Montana-Code-School/Git2KnowYou08.1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Montana-Code-School/Git2KnowYou08.1/issues"
+  },
+  "homepage": "https://github.com/Montana-Code-School/Git2KnowYou08.1#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
