@@ -1,0 +1,12 @@
+body {
+  background-color: purple;
+  font-family: fantasy;
+}
+p {
+  font-size: 55px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
