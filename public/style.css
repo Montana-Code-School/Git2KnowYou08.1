@@ -1,6 +1,15 @@
 body {
   font-family: monospace;
   font-size: 50px;
+  background-color: #c5fad3;
   text-align: center;
-  background-color: #c5fad3
+}
+li {
+  font-size: 40px;
+}
+ul {
+  list-style-type: none;
+}
+a {
+  font-size: 40px;
 }
