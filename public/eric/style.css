@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: teal;
+}
+h1{
+  font-family: cursive;
+  font-size: 75px;
+}
+#burger{
+  position: relative;
+  top: -725px;
+  z-index: 1;
+}

@@ -20,10 +20,7 @@
   "homepage": "https://github.com/Montana-Code-School/Git2KnowYou08.1#readme",
   "dependencies": {
     "express": "^4.16.2",
-<<<<<<< HEAD
-=======
     "jquery": "^3.3.1",
->>>>>>> 6dc655e1b5991f49cb12bff06851e90eb3bdfdf5
     "nodemon": "^1.14.12",
     "path": "^0.12.7"
   }
