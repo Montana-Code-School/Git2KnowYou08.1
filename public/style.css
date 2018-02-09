@@ -24,3 +24,11 @@ a {
 button {
   padding: .5em 2em;
 }
+.MTCS {
+  width: 300px;
+}
+
+.circle {
+  position: relative;
+  top: -390px;
+}

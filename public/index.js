@@ -4,9 +4,14 @@ for (var i = 0; i < square.length; i++) {
   square[i].addEventListener("click", function(){
     console.log("this works");
     document.body.style.backgroundColor = "red";
-    document.getElementsByClassName('clickMe').style.backgroundColor = '#bdce00'
+    document.getElementsByClassName('click').style.backgroundColor = '#bdce00'
   });
 }
+
+document.addEventListener('click', function (event) {
+  console.log(event);
+});
+
 $("#header")
 .on( "mouseenter", function() {
   $(this).text("Better!");
@@ -14,7 +19,6 @@ $("#header")
 .on( "mouseleave", function(){
   $(this).text("Git To Know You!!");
 });
-
 
 //clickMe = document.getElementsByClassName('clickMe').style.background='#bdce00';
 console.log(square);
