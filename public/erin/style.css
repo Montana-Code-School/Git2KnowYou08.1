@@ -1,3 +1,15 @@
 body {
   background-color: deepPink;
 }
+}
+p {
+  font-family: "Chalkduster", fantasy;
+  font-size: 45px;
+}
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+}
