@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Montana-Code-School/Git2KnowYou08.1#readme",
   "dependencies": {
     "express": "^4.16.2",
+    "nodemon": "^1.14.12",
     "path": "^0.12.7"
   }
 }
