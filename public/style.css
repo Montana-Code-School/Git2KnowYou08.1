@@ -1,0 +1,34 @@
+body {
+  font-family: monospace;
+  font-size: 50px;
+  background-color: #c5fad3;
+  text-align: center;
+}
+li {
+  font-size: 40px;
+}
+ul {
+  list-style-type: none;
+}
+a {
+  font-size: 40px;
+}
+
+#square {
+  width: 20em;
+  height 20em;
+  border: 2px inset gray;
+  margin-bottom: 1em;
+}
+
+button {
+  padding: .5em 2em;
+}
+.MTCS {
+  width: 300px;
+}
+
+.circle {
+  position: relative;
+  top: -390px;
+}

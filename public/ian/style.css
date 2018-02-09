@@ -1,4 +1,17 @@
 body {
   background-color: khaki;
-  font-family: 'Comic Sans MS', cursive, sans-serif;
+  font-family: fantasy;
+  text-align: center;
+}
+h1{
+  font-size: 30px;
+}
+img {
+  width: 800px;
+  height: 500px;
+}
+iframe {
+  position: relative;
+  top: -434px;
+  z-index: 0;
 }
